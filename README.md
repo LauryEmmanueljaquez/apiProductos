@@ -1,6 +1,10 @@
-# Products API
+# 🛍️ Products API
 
-Una API REST moderna para gestionar productos, construida con **NestJS**, **Prisma ORM** y **SQLite**.
+> Una API REST moderna y escalable para gestionar productos de forma eficiente
+
+Construida con **NestJS**, **Prisma ORM** y **SQLite**, esta API ofrece una solución completa y documentada para operaciones CRUD de productos con una arquitectura robusta y fácil de mantener.
+
+---
 
 ## 🚀 Características
 
@@ -129,4 +133,4 @@ npx prisma migrate reset
 
 ## 📝 Licencia
 
-MIT - 2025
+Laury Jaquez Actuana - 2025
